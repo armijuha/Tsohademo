@@ -1,2 +1,2 @@
 # Tsohademo
-Tietokantasovellus demoharjoitus
+Tietokantasovelluksen nollaviikon demoharjoitus
